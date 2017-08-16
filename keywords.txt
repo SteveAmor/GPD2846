@@ -1,0 +1,24 @@
+###################################
+# Syntax Coloring Map For GPD2846
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+GPD2846	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+volumeUp	KEYWORD2
+volumeDown	KEYWORD2
+next	KEYWORD2
+previous	KEYWORD2
+play	KEYWORD2
+pause	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
