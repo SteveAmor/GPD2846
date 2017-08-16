@@ -13,6 +13,7 @@ previous()
 
 ## Installation
 
-To include this library, copy all the files and example directory and place in a directory called GPD2846 in the Arduino library directory.  
+To include this library, copy all the files and the examples directory and place them in a directory called GPD2846 in the Arduino library directory.  
 
-.../Arduino/libraries/GPD2846/
+.../Arduino/libraries/GPD2846/  
+.../Arduino/libraries/GPD2846/examples/
